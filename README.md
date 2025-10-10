@@ -1,4 +1,5 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  [![committers.top badge](https://user-badge.committers.top/algeria_private/USERNAME.svg)](https://user-badge.committers.top/algeria_private/USERNAME)
+
 
 I am Lylia ! a full-stack web developer from Algeria. I design with Figma, build elegant web interfaces using Vue, Nuxt, and Svelte, and utilize headless CMSes like Supabase and Strapi for the backend.
 Additionally, I have experience building AI applications with Python using technologies like LangChain, Hugging Face, Gradio, and Streamlit.
