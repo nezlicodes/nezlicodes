@@ -7,15 +7,15 @@ I also enjoy recreational coding with Processing and p5.js. I'm passionate about
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rand0m_walk3r)](https://twitter.com/rand0m_walk3r)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@lylianezli.com)](mailto:contact@lylianezli.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@cinqcinqdev.com.com)](mailto:contact@cinqcinqdev.com)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nezlicodes&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://lylianezli.com/blog
-- 📫 How to reach me: contact@lylianezli.com
+- 👨‍💻 My blog: http://cinqcinqdev.com/blog
+- 📫 How to reach me: contact@cinqcinqdev.com
 - 🌱 Languages and Tools: 
 
  [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,vue,nuxt,svelte,figma,supabase,huggingface,langchain,p5)](https://skillicons.dev)
