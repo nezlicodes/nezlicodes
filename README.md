@@ -14,7 +14,6 @@ I also enjoy recreational coding with Processing and p5.js. I'm passionate about
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://cinqcinqdev.com/blog
 - 📫 How to reach me: contact@cinqcinqdev.com
 - 🌱 Languages and Tools: 
 
